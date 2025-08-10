@@ -11,6 +11,6 @@ Conversor de Monedas programado en Java.
 
 
 FUENTES:
-https://www.exchangerate-api.com/docs/overview
-https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/module-summary.html
-https://github.com/google/gson/blob/main/UserGuide.md
+https://www.exchangerate-api.com/docs/overview  
+https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/module-summary.html  
+https://github.com/google/gson/blob/main/UserGuide.md  
